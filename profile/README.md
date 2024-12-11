@@ -1,8 +1,6 @@
 # Join us: our mission is to disrupt frontend
 
-[](https://github.com/search?q=commercetools&type=repositories#join-us-our-mission-is-to-disrupt-commerce)
-
-> We are Laioutr, the world’s leading composable frontend frontend management platform that allows global merchants to create high quality frontend experiences.
+> We are Laioutr, the world’s leading composable frontend management platform that allows global merchants to create high quality frontend experiences.
 
 Our mission is to  **disrupt the frontend industry**. We are challenging and changing the world of how frontend management should work nowadays. By enabling merchants to freely build up their frontend based on one of our ui kits or themes.
 
