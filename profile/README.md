@@ -10,6 +10,8 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 
 ## Our open-source laioutr apps:
 
+* [Shopware](https://github.com/laioutr/app-shopware)
+* [Oxid](https://github.com/laioutr/app-oxid)
 * [Commercetools](https://github.com/laioutr/app-commercetools)
 * [Emporix](https://github.com/laioutr/app-emporix)
 * [Klaviyo](https://github.com/laioutr/app-klaviyo)
