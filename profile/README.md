@@ -16,6 +16,7 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [Emporix](https://github.com/laioutr/app-emporix)
 * [Klaviyo](https://github.com/laioutr/app-klaviyo)
 * [Vercel Speed Insights](https://github.com/laioutr/app-vercel-speed-insights)
+* [Vercel Analytics](https://github.com/laioutr/app-vercel-analytics)
 
 ## App Starter kits:
 
