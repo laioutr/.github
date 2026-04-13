@@ -19,6 +19,7 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [Vercel Analytics](https://github.com/laioutr/app-vercel-analytics)
 * [Sylius](https://github.com/laioutr/app-sylius)
 * [Shopware B2B Sellers](https://github.com/laioutr/app-b2bsellers)
+* [VTEX](https://github.com/laioutr/app-vtex)
 
 ## App Starter kits:
 
