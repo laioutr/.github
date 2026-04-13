@@ -17,6 +17,8 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [Klaviyo](https://github.com/laioutr/app-klaviyo)
 * [Vercel Speed Insights](https://github.com/laioutr/app-vercel-speed-insights)
 * [Vercel Analytics](https://github.com/laioutr/app-vercel-analytics)
+* [Sylius](https://github.com/laioutr/app-sylius)
+* [Shopware B2B Sellers](https://github.com/laioutr/app-b2bsellers)
 
 ## App Starter kits:
 
