@@ -28,3 +28,5 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [Customer Demo](https://github.com/laioutr/app-customer-demo) - a sample app that integrates Hygraph and some custom Vue Sections into Laioutr
 
 Create your own, by following our [developer guide](https://docs.laioutr.io/developer-guide/setup)!
+
+Visit our [website](https://www.laioutr.com) to check our latest insights and features.
