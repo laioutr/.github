@@ -21,6 +21,11 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [Shopware B2B Sellers](https://github.com/laioutr/app-b2bsellers)
 * [VTEX](https://github.com/laioutr/app-vtex)
 * [Hygraph](https://github.com/laioutr/app-hygraph/)
+* [Essentials Mailer](https://github.com/laioutr/app-essentials-mailer)
+
+## Plugins for external systems
+
+* [Shopware Connector](https://github.com/laioutr/shopware-laioutr-connector)
 
 ## App Starter kits:
 
