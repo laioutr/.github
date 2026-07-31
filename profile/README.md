@@ -22,6 +22,7 @@ We are a  **passionate bunch of coders, ux designers and thought leaders, but we
 * [VTEX](https://github.com/laioutr/app-vtex)
 * [Hygraph](https://github.com/laioutr/app-hygraph/)
 * [Essentials Mailer](https://github.com/laioutr/app-essentials-mailer)
+* [Essentials SEO](https://github.com/laioutr/app-essentials-seo)
 
 ## Plugins for external systems
 
